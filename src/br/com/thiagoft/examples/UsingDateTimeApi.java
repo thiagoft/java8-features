@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
  *
  * @author thiagofonseca
  */
-public class UsingDates {
+public class UsingDateTimeApi {
 
     public static void main(String[] args) {
         /**
